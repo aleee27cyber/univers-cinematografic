@@ -19,6 +19,7 @@
 - **Antagonista:** Thanos.
 - **Escenari principal:** La Terra i l'espai exterior.
 - **Argument:** Els herois, units com a equip, s'enfronten a l'amenaça definitiva per salvar el futur del planeta.
+<<<<<<< HEAD
 - **Capítols relacionats:** Capítols 3 i 4 (La formació dels Avengers i La batalla pel futur de la Terra).
 
 ## 4. Avengers: Després de la Batalla
@@ -27,3 +28,7 @@
 - **Escenari principal:** Wakanda i Nova York.
 - **Argument:** Els nous herois lideren la defensa de la Terra després de la batalla final.
 - **Capítol relacionat:** Capítol 5 (El futur de l'univers cinematogràfic).
+=======
+- **Capítols relacionats:** Capítols 3 i 4 (La formació dels Avengers i La batalla pel futur de la Terra).
+>>>>>>> 2c5930ad4e59e42d126f5af8a79cd43bbbc7bf69
+
