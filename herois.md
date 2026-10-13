@@ -29,3 +29,7 @@
 - **Poder/tecnologia:** Espionatge, combat cos a cos i entrenament d'elit.
 - **Origen:** Natasha Romanoff, antiga espia formada a Rússia.
 - **Funció dins de la saga:** Agent d'infiltració i cohesió de l'equip.
+
+## Relacions entre herois
+- **Iron Man i Captain America:** Companys i rivals, units per un mateix objectiu però amb visions oposades.
+- **Spider-Man i Iron Man:** Relació de mentor i aprenent.
